@@ -30,8 +30,10 @@ Our teammate, who was handling the app dev part fell sick on the second day of t
 ## Accomplishments that we are proud of:
 
 ## What we learned:
-### Ephemeral:
+
 I was a complete begineer in app dev, so over the course of this hack I have gained some insight into the domain
+
+I have learnt how to build a cool website with a neat UI.
 
 ## Important URLs:
 Figma -> https://www.figma.com/file/oqBR9ID1QGB5iUslsRJu9N/Dusk-Orange?node-id=0%3A1

@@ -1,5 +1,7 @@
 # SubsPays
 Subscription Manager App
+
+
 ![image](https://user-images.githubusercontent.com/72297207/117140538-270c0e80-adcb-11eb-9bdf-aea233146cf0.png)
 
 
@@ -15,6 +17,7 @@ It also allows you to make custom subscriptions. This app then keeps track of pa
 When the subscription is about to expire, the app gives you a notification about the same. It also has a recommendation system that analyzes your subscriptions and recommends actions based on multiple factors which you would prefer.
 The website:
 ![image](https://user-images.githubusercontent.com/72297207/117140638-40ad5600-adcb-11eb-83bd-b04dd17b5aec.png)
+
 https://akshaya-vc.github.io/SubsPays/index.html#link2
 
 ## How we built it: 
@@ -32,3 +35,4 @@ I was a complete begineer in app dev, so over the course of this hack I have gai
 
 ## Important URLs:
 Figma -> https://www.figma.com/file/oqBR9ID1QGB5iUslsRJu9N/Dusk-Orange?node-id=0%3A1
+Website -> https://akshaya-vc.github.io/SubsPays/index.html#link2

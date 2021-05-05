@@ -20,14 +20,14 @@ The website:
 
 https://akshaya-vc.github.io/SubsPays/index.html#link2
 
-## How we built it: 
+## How we built it: Using flutter, html and kotlin
 
-## How to run it locally: 
+## How to run it locally: Download and instaall apk
 
 ## Challenges we ran into: 
 Our teammate, who was handling the app dev part fell sick on the second day of the hack(fifth may). As such, aside from the UI we could not develop much of the app.
 
-## Accomplishments that we are proud of:
+## Accomplishments that we are proud of: We got a working app
 
 ## What we learned:
 

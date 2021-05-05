@@ -22,7 +22,7 @@ Our teammate, who was handling the app dev part fell sick on the second day of t
 ## Accomplishments that we are proud of:
 
 ## What we learned:
-## Rishabh:
+## Ephemeral:
 I was a complete begineer in app dev, so over the course of this hack I have gained some insight into the domain
 
 ## Important URLs:

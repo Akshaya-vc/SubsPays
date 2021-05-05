@@ -5,7 +5,7 @@ Subscription Manager App
 Users often buy subscriptions for various platforms at different durations. They forget about the expiry date of their subscriptions.Thus affects a proper cycle to be followed. Create a solution to tackle this problem.
 
 ## Inspiration: 
-We wanted to add some new features to the already existing subscription apps. We also took some inspiration from the Calander App.
+Calendar Apps
 
 ## What it does: 
 The app allows you to add subscription details to your accounts for various categories such as video streaming, musing streaming, mobile networks, internet plans, educational courses,,etc.
@@ -22,7 +22,8 @@ Our teammate, who was handling the app dev part fell sick on the second day of t
 ## Accomplishments that we are proud of:
 
 ## What we learned:
-## Rishabh: I was a complete begineer in app dev, so over the course of this hack I have gained some insight into the domain
+### Ephemeral:
+I was a complete begineer in app dev, so over the course of this hack I have gained some insight into the domain
 
 ## Important URLs:
 Figma -> https://www.figma.com/file/oqBR9ID1QGB5iUslsRJu9N/Dusk-Orange?node-id=0%3A1

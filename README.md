@@ -18,7 +18,7 @@ When the subscription is about to expire, the app gives you a notification about
 The website:
 ![image](https://user-images.githubusercontent.com/72297207/117140638-40ad5600-adcb-11eb-83bd-b04dd17b5aec.png)
 
-https://akshaya-vc.github.io/SubsPays/index.html#link2
+https://akshaya-vc.github.io/SubsPays/index.html
 
 ## How we built it: Using flutter, html and kotlin
 
